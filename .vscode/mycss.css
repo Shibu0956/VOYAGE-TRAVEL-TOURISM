@@ -1,0 +1,1008 @@
+/* body{
+    margin: 0;
+} */
+.a1 ul li{
+    display: inline-block;
+    padding: 5px;
+    margin: 0px;
+}
+.firstbar{
+  margin-top: -15px;
+    width: 100%;
+    background-color:rgb(9, 72, 72);
+}
+.container-fluid #abc{
+    color: rgb(236, 227, 227);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 8px;
+    text-decoration: none;
+    border: 0.1px solid rgb(9, 9, 9);
+    border-bottom: none;
+    border-right: none;
+    border-top: none;
+
+}
+.container-fluid #abcd{
+    color: rgb(236, 227, 227);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 8px;
+    text-decoration: none;
+    border: 0.1px solid rgb(9, 9, 9);
+    border-bottom: none;
+    border-right: 0.5;
+    border-top: none;
+
+}
+.container-fluid #aaa{
+    color: rgb(236, 227, 227);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 8px;
+    text-decoration: none;
+    border: 0.1px solid rgb(9, 9, 9);
+    border-bottom: none;
+    border-right: none;
+    border-top: none;
+
+}
+
+.container-fluid #abc:hover,#abcd:hover{
+    color: rgb(13, 226, 159);
+    
+
+}
+.container-fluid #register:hover{
+    color: rgb(223, 243, 9);
+}
+
+.topnav-right{
+    float: right;
+    display: inline;
+    margin-left: 150px;
+}
+.container-fluid #icons{
+    color: rgb(238, 250, 250);
+    padding: 6px; 
+    padding-left: 10px;
+    border: 0.5px solid rgb(9, 9, 9);
+    border-bottom: none;
+    border-right: none;
+    border-top: none;
+    
+         
+}
+.container-fluid #iconst{
+    color: rgb(238, 250, 250);
+    padding: 6px; 
+    padding-left: 10px;
+    border: 0.5px solid rgb(9, 9, 9);
+    border-bottom: none;
+    border-right: 0.5;
+    border-top: none;
+    
+
+}
+.container-fluid #iconsp{
+color: rgb(238, 250, 250);
+padding: 6px; 
+padding-left: 10px;
+border-top: none;
+}
+
+#icons :hover,#iconst :hover{
+    color: rgb(12, 202, 255);
+    transition: .1s ease;
+}
+
+.voyage{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    
+    
+}
+.btngo{
+  margin-right: 5px;
+  padding-top:4px;
+  padding-bottom:3.5px;
+  border-left: none;
+}
+#icnossss a{
+  font-size: 20px;
+  padding-left: 10px;
+}
+.secondbar{
+    font-family: 'Times New Roman', Times, serif;
+    float: right;
+    display: inline;
+    padding-left: 150px;
+    margin-top: 40px;
+}
+#mysecondbar{
+  margin-left: 85px;
+}
+.secondbar li{
+    padding: 10px;
+    
+}
+.secondbar a:hover{
+    color:  rgb(16, 173, 124);
+    text-decoration: underline black;
+    
+}
+.srch{
+    margin-left: 75px;
+    cursor: pointer;
+}
+/* .main{
+    width: 100%;
+    background: linear-gradient(rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(newyork3.jpg);
+    background-position: center;
+    background-size: cover;
+    
+} */
+
+.carousel-indicators button:hover{
+    background-color: aqua;
+}
+
+.carousel-caption{
+    background: linear-gradient(rgba(0,0,0,0.4)50%,rgba(0,0,0,0.4)50%);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 150px;
+    border-radius: 5px;
+    
+}
+
+.d-block{
+
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    background: linear-gradient(rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
+    
+}
+#captions{
+  margin-top: -200px;
+}
+#bt1{
+  text-decoration: none;
+    border: 1px solid white;
+    border-radius: 2px;
+    margin-left: 10px;
+    background-color: transparent;
+    color: white;
+    border-radius: 3px;
+}
+#bt2{
+    border: 1px solid white;
+    border-radius: 2px;
+    margin-left: 10px;
+    background-color: transparent;
+    color: white;
+    border-radius: 3px;
+}
+#bt1:hover,#bt2:hover{
+    background-color: rgb(15, 82, 83);
+
+}
+.carousel-caption h2{
+    text-align: center;
+}
+.myform2{
+    width: 101%;
+    background-color: rgb(7, 118, 118);
+    display: inline-block;
+    justify-content: center;
+    float: left;
+ 
+}
+#flyid{
+  padding-top: 50px;
+  padding-bottom: 30px;
+  text-transform: capitalize;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(35, 92, 89);
+  text-shadow: 2px 2px 2px rgb(10, 221, 236);
+}
+#flycruse{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-transform: capitalize;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(251, 249, 249);
+  text-shadow: 2px 2px 1px rgb(127, 129, 128);
+
+}
+#flycruseF{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-transform: capitalize;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(4, 12, 243);
+  text-shadow: 2px 2px 1px rgb(4, 225, 114);
+
+}
+#flyAad{
+  padding-top: 20px;
+  padding-bottom:  0px;
+  text-transform: capitalize;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(251, 249, 249);
+  text-shadow: 2px 2px 1px rgb(127, 129, 128);
+
+}
+#flyAadd{
+  text-decoration: underline;
+  padding-top: 20px;
+  padding-bottom:  0px;
+  text-transform: capitalize;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(11, 11, 250);
+  text-shadow: 2px 2px 1px rgb(3, 196, 99);
+
+
+}
+#ex2{
+  color: black;
+}
+#cars{
+  width: 250px;
+  height: 37px;
+  border-radius: 5px;
+}
+.myform2 p{
+    margin-left: 10px;
+}
+.myform2 input{
+    /* margin-top: 10px; */
+    /* display: block; */
+    margin-bottom: 20px;
+    /* float: left; */
+    width: 255px;
+    margin-left: 5px;
+    padding-left: 10px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif; 
+        
+}
+.myform2 label{
+     margin-left: 10px;
+     color: white;
+}
+#myform3{
+    display: flex;
+    justify-content: center;
+}
+.mybtn1 button{
+    background-color: rgb(4, 200, 235);
+    color: rgb(4, 4, 4);
+    margin-left: 75px;
+   
+}
+.mybtn1 button:hover{
+  background-color: rgb(4, 200, 235);
+ box-shadow: 2px 2px 2px rgb(1, 230, 242); ;
+
+}
+#findid{
+  margin-top: 20px;
+  font-size: 18px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 2px 0px 0px 2px 2px black;
+  letter-spacing: 3px;
+}
+#h44{
+  margin-top: 50px;
+}
+.mybtn1 button:hover{
+  background-color: aqua;
+  
+}
+
+.items{
+    width: 100%;
+    height: 25%;
+    
+}
+.items h4{
+    padding: 10px;
+    text-align: center;
+    
+}
+.items .p2{
+    text-align: center;
+    color: black;
+    
+}
+.images{
+    width: 100%;
+    height: 250px;
+}
+
+div.image1{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 250px;
+  }
+
+  div.desc {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-left: 125px;
+    padding: -10px;
+  }
+  .down{
+    transform: rotate(45deg);
+   -webkit-transform: rotate(45deg);
+  }
+  .dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: rgb(191, 233, 233);
+
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(110, 16, 16, 0.6);
+    z-index: 1;
+  }
+  .dropdown-content h5{
+    margin-left: 5px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .dropdown-content h6{
+    margin-left: 10px;
+  }
+  .dropdown-content p{
+    text-align: justify;
+    margin-left: 15px;
+    margin-right: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    
+  }
+   .image1:hover .dropdown-content {
+    display: block;
+  }
+ 
+  #form1{
+    width: 100%;
+    
+    background: linear-gradient(rgba(0,0,0,0.6)50%,rgba(0,0,0,0.6)50%),url(/images/tajmahalform1.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+  #form1 h3,p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  #form1 h3{
+    padding-top: 20px;
+  }
+  #form1 .list{
+    margin-left: 300px;
+    margin-top: 30px;
+    padding-top: 50px;
+    
+
+  }
+  #form1 .list a{
+    padding-left: 150px;
+    border: 2px solid rgb(254, 254, 254);
+    background-color: rgb(44, 127, 124);
+    padding: 20px;
+    padding-top: 30px;
+    border-radius: 100px;
+      
+  }
+  #form1 .list a:hover{
+    background-color: rgb(0, 235, 252);
+  }
+  .mycontent{
+    width: 100%;
+    height: 300px;
+  }
+  .mycontent h4{
+    text-align: center;
+    color: rgb(10, 10, 10);
+    padding-top: 40px;
+  }
+  .mycontent .myp{
+    color: rgb(5, 5, 5);
+
+  }
+  .mybox1{
+    width: 100%;
+    height: auto;
+
+  }
+  .box1{
+    width: 20%;
+    height: auto;
+    background-color: white;
+    color: black;
+    float: left;
+    margin-left: 45px;
+    /* border: 0.5px solid gray;
+    margin-top: 5px;
+    border-top-color: rgb(6, 244, 220);;
+    border-top-width: 3px;
+    padding: 10px; */
+    
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 19px;
+  }
+  .box1 h6{
+    color: rgb(6, 244, 220);
+  }
+  #myrow{
+    width: 102%;
+    height: 350px;
+    background-color: rgb(31, 67, 67);
+          
+  }
+ 
+ .col-3{
+  padding-left: 20px;
+  padding-top: 25px;
+  color: aliceblue;
+  text-align: center;
+ 
+ }
+ .col-3 h4{
+  color: rgb(237, 237, 243);
+  /* padding-left: 50px; */
+ }
+ .col-3 li{
+  border: 1px solid white;
+  display: inline;
+ }
+ .col-3 .iconss a{
+  size: 125px;
+ }
+
+ #myrow1 li{
+  list-style-type: none;
+  
+ }
+ .col-1{
+ 
+  padding-left: 125px;
+ }
+ #myrow1 li a{
+  color: #f9f9f9;
+  text-decoration: none;
+  margin-left: 305px;
+  padding-left: 15px;
+ }
+ #mycopy{
+  text-align: center;
+  margin-right: 150px;
+ }
+ .form1{
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(newyork1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.form1 h3,p{
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.form1 h3{
+  padding-top: 20px;
+}
+.mycol2 h6{
+  font-size: 10px;
+}
+.mycol2{
+margin-top: 25px;
+
+}
+/* .myrow121{
+  margin-left: 100px;
+} */
+.card-body:hover{
+color: cornflowerblue;
+}
+.col-1 a{
+  color: aliceblue;
+  text-decoration: none;
+
+}
+.col-1 a:hover{
+  color: aquamarine;
+}
+.top-left{
+  width: 100%;
+  /* height: 95%; */
+  position: absolute;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-bottom: 10px;
+  /* top:5px; */
+  left: 1px;
+  bottom: 0px;
+  color: rgb(253, 254, 254);
+  font-weight: 155px;
+  background: linear-gradient(rgba(20, 19, 19, 0.6)50%,rgba(16, 16, 16, 0.6)50%);
+  padding: 2px;
+  border-radius: 5px;
+}
+.top-left1{
+  width: 97%;
+  height: 95%;
+  position: absolute;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-bottom: 10px;
+  top:5px;
+  left: 5px;
+  bottom: 0px;
+  color: rgb(253, 254, 254);
+  font-weight: 155px;
+  background: linear-gradient(rgba(20, 19, 19, 0.6)50%,rgba(16, 16, 16, 0.6)50%);
+  padding: 2px;
+  border-radius: 5px;
+}
+.top-left1 h6{
+  margin-top: 70px;
+  margin-left: 90px;
+} 
+.flip-box,.flip-box1 {
+  border-radius: 10px;
+  background-color: transparent;
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  border: none;
+  perspective: 1000px;
+}
+.flip-box img,.flip-box1 img{
+  border-radius: 10px;
+}
+.flip-box-inner {
+  margin-left: 50px;
+  border-radius: 20px;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.9s;
+  transform-style: preserve-3d;
+}
+
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+.flip-box1:hover .top-left1{
+  visibility: hidden;
+  transition: 0.3 ease-in-out;
+}
+
+.flip-box-front, .flip-box-back,.flip-box-front1 {
+  position: absolute;
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-box-front,.flip-box-front1 {
+  color: black;
+  box-shadow: 0px 8px 16px 0px rgba(18, 17, 17, 0.6);
+
+}
+
+.flip-box-back {
+  border-radius: 10px;
+  transform: rotateY(180deg);
+  position: absolute;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(18, 17, 17, 0.6);
+  z-index: 1;
+} 
+.flip-box-back h6{
+margin-top: 15px;
+margin-left: 5px;
+margin-right: 3px;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.flip-box-back p{
+  text-align: justify;
+  margin-left: 15px;
+  margin-right: 5px;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  
+}
+#liberty{
+  background: linear-gradient(rgba(0,0,0,0.55)50%,rgba(0,0,0,0.55)50%),url(freedom\ of\ liberty.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#liberty h6{
+  color: aqua;
+}
+#thailand{
+  background: linear-gradient(rgba(0,0,0,0.55)50%,rgba(0,0,0,0.55)50%),url(thailand.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#thailand h6{
+  color: rgb(10, 222, 17);
+}
+#eiffel{
+  background: linear-gradient(rgba(0,0,0,0.55)50%,rgba(0,0,0,0.55)50%),url(paris.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#eiffel h6{
+  color: rgb(175, 64, 249);
+}
+#hongkong{
+  background: linear-gradient(rgba(0,0,0,0.55)50%,rgba(0,0,0,0.55)50%),url(hongkong.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#hongkong h6{
+  color: rgb(232, 51, 1);
+}
+#singapore{
+  background: linear-gradient(rgba(0,0,0,0.55)50%,rgba(0,0,0,0.55)50%),url(/images/singapore.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#singapore h6{
+  color: rgb(191, 241, 10);
+}
+#kovalam{
+  background: linear-gradient(rgba(0,0,0,0.55)50%,rgba(0,0,0,0.55)50%),url(KOVLM.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#kovalam h6{
+  color: rgb(250, 129, 0);
+}
+#burj{
+  background: linear-gradient(rgba(0,0,0,0.55)50%,rgba(0,0,0,0.55)50%),url(uaedubai.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#burj h6{
+  color: rgb(246, 12, 254);
+}
+#maldives{
+  background: linear-gradient(rgba(0,0,0,0.55)50%,rgba(0,0,0,0.55)50%),url(/images/maldives.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#maldives h6{
+  color: rgb(2, 248, 7);
+}
+#egypt{
+  background: linear-gradient(rgba(0,0,0,0.55)50%,rgba(0,0,0,0.55)50%),url(/images/Egypt.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#egypt h6{
+  color: rgb(250, 3, 131);
+}
+
+
+
+/* userlogin */
+#loginbody{
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(rgba(0,0,0,0.3)50%,rgba(0,0,0,0.3)50%),url(/images/thailand.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#signbody{
+  width: 100%;
+  height: 380px;
+  background: linear-gradient(rgba(0,0,0,0.3)50%,rgba(0,0,0,0.3)50%),url(/images/maldives.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.form{
+  width: 250px;
+  height: 300px;
+  position: absolute;
+  background: linear-gradient(rgba(0,0,0,0.7)50%,rgba(0,0,0,0.7)50%);
+  background-position: center;
+  background-size: cover;
+  top:20px;
+  left: 470px;
+  border-radius: 10px;
+  padding: 65px;
+ 
+
+}
+.form h2{
+  width: 220px;
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(217, 222, 222);
+  font-size: 22px;
+  background-color: rgb(7, 164, 138);
+  border-radius: 10px;
+  margin: 2px;
+  padding: 8px;
+}
+.form input{
+  width: 240px;
+  height: 35px;
+  background: transparent;
+  border-bottom: 1px solid #08e0ae;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-top: 30px;
+  font-family: sans-serif;
+}
+.form p{
+  line-height: normal
+
+}
+.form button{
+  width: 80px;
+  text-decoration: none;
+  height: 30px;
+  background: rgb(5, 209, 185);
+  border: 1px solid black;
+  border-radius: 8px;
+  margin-top: 13px;
+  margin-left: 80px;
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+  border-bottom-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+ 
+ 
+}
+.form.btn1 a{
+  text-decoration: none;
+  color: black;
+  background-color: rgb(80, 217, 255);
+  
+     
+}
+.form button a:hover{
+  color: rgb(14, 1, 2);
+  text-decoration: none;
+  transition: .3s ease;
+ 
+}
+
+.form button:hover{
+  background-color: rgb(13, 224, 189);
+    
+ 
+}
+.form button span{
+  color: #c2c0c0;
+  font-size: 6p;
+}
+
+.form p{
+  margin-left: 0px;
+  margin-top: 20px;
+
+}
+.form p a{
+color: #34bec8;
+  text-decoration: none;
+
+}
+#hrd{
+  opacity: 0.2;
+}
+.form p a:hover{
+  color: rgb(55, 249, 223);
+  text-decoration: underline;
+  transition: .3s ease;
+ 
+}
+.link{
+  color: #c2c0c0;
+}
+#loginid:hover{
+  border: none;
+  background-color: #06fffb;
+  color: black;
+  box-shadow:  0px 1px 1px 1px rgb(28, 28, 28);
+
+}
+.form p.liw{
+  margin-left: 10px;
+  color: #c2c0c0;
+
+}
+.form .icons{
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+.form .icons a{
+  color: #1218d3;
+  margin-left: 15px;
+  font-size: 17px;
+  margin-top: 10px;
+
+}.form .icons a:hover{
+      color: #03f9f1;
+      transition: .3s ease;
+}
+#btnmore button{
+  color: white;
+  padding: 5px;
+}
+#crusebody{
+  background: linear-gradient(rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(/images/cruses6.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+#destbody{
+  background: linear-gradient(rgba(0,0,0,0.6)50%,rgba(0,0,0,0.6)50%),url(/images/paris.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#holidaybody{
+  background: linear-gradient(rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%),url(/images/homeimg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+#adbody{
+  background: linear-gradient(rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(/images/surfing\ sunset.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+}
+/* #adbody img{
+  border: 3px solid white;
+
+
+}
+#adbody img:hover{
+  border: 2px solid white;
+  box-shadow: 5px 5px 5px black;
+
+} */
+#holidaybody img{
+  border: 5px solid rgb(239, 232, 232);
+  row-gap: 50px;
+  column-gap: 50px;
+}
+.contenthidden{
+  color: white;
+  visibility: hidden;
+
+}
+#adbody img:hover.contenthidden{
+  visibility: visible;
+}
+ 
+.holyrow{
+  row-gap: 50px;
+  column-gap: 20px;
+
+}
+.flip-box-ad {
+  background: none;
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  border: none;
+  perspective: 1000px;
+  perspective: 0px;
+}
+.flip-box-ad img{
+  border-radius: 10px;
+
+}
+.centre{
+  width: auto;
+  position: absolute;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  left: 70px;
+  bottom: -1px;
+  color: rgb(253, 254, 254);
+  font-weight: 155px;
+  background: linear-gradient(rgba(20, 19, 19, 0.6)50%,rgba(16, 16, 16, 0.6)50%);
+  padding: 2px;
+  border-radius: 5px;
+  visibility: hidden;
+}
+
+
+
+.flip-box-ad:hover .centre{
+  visibility: visible;
+}
+
+.flip-box-front-ad, .flip-box-back-ad {
+  position: absolute;
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-box-front-ad {
+  color: black;
+  box-shadow: 0px 8px 16px 0px rgba(18, 17, 17, 0.6);
+
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Control the gap between images */
+}
+
+.gallery > img {
+  width: 150px; /* Set a fixed width for images */
+  height: 150px; /* Set a fixed height for images */
+  object-fit: cover;
+  border-radius: 50%; /* Make images rounded */
+  cursor: pointer;
+  transition: .2s linear;
+}
+
+.gallery > img:hover {
+  filter: grayscale(0);
+  z-index: 1;
+  transform: scale(1.2);
+}
+
+
+
+#adventure {
+  margin: 0;
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  background: linear-gradient(rgba(0,0,0,0.7)50%,rgba(0,0,0,0.7)50%),url(/images/mountains.jpg);
+
+}
+#italy{
+  background: linear-gradient(rgba(0,0,0,0.7)50%,rgba(0,0,0,0.7)50%);
+  background-position: center;
+  background-size: cover;
+  color: white;
+
+}
+
